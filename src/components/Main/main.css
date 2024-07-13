@@ -208,5 +208,18 @@ width: 150px;
     gap: 5px;
 }
 
+.main .cards{
+    display: none;
+}
+
+.main .greet{
+    margin: 50px 0px;
+    font-size: 46px;
+    font-weight: 500;
+    padding:20px ;
+    color: #c4c7c5;
+}
+
+
 
 }
